@@ -1,1 +1,64 @@
+h1 {
+    color: #e7e7e7;
+    text-align: center;
+    font-size: 35px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #75b9e7;
+    padding: 20px;
+    text-align: center;
+}
+
+
+nav {
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+
+
+
+h2 {
+    color: #2876a8;
+}
+
+/* Texte */
+p {
+    color: #333;
+    font-size: 16px;
+}
+
+/* Contenu */
+main {
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+/* Bas de page */
+footer {
+    background-color: #75b9e7;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
 
