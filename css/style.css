@@ -50,9 +50,10 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    margin:25px;
 }
 .introduction {
-    
+
     padding: 25px;   
     border-radius: 10px;
 }
@@ -87,9 +88,7 @@ footer {
     border-radius: 12px;
 }
 
-footer{
-margin:25px;
-}
+
 
 
 
