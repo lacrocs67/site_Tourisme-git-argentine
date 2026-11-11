@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+    
+}
 
 h1 {
     color: white;
@@ -52,7 +56,7 @@ p {
 }
 
 main {
-    margin: 20px;
+    
     padding: 20px;
 }
 
@@ -64,25 +68,20 @@ footer {
     padding: 10px;
 }
 .introduction {
-    background-color: white;
-    padding: 25px;
-    margin: 30px;
+    
+    padding: 25px;   
     border-radius: 10px;
 }
 
 .introduction h2 {
-    color: #75b9e7;
+    color: #2876a8;
     text-align: center;
 }
 
-.introduction p {
-    font-family: Arial;
-    font-size: 16px;
-    
-}
+
 
 .introduction ul {
-    background-color: #e3f4ff;
+    background-color: #afd7f1;
     padding: 25px 40px;
 }
 
@@ -91,8 +90,8 @@ footer {
     margin: auto;
 }
 .paysages {
-    background-color: white;
-    margin-left: 30%;
+   
+    
     padding: 25px;
 }
 .gastronomie {
@@ -103,13 +102,16 @@ footer {
     color: #2876a8;
 }
 
-.gastronomie p {
+ p {
     font-size: 18px;
 }
 
-.gastronomie img {
+ img {
     border-radius: 12px;
 }
+
+
+
    
 
 
