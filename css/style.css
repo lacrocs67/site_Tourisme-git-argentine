@@ -2,27 +2,22 @@
     box-sizing: border-box;
     
 }
-
 h1 {
     color: white;
     text-align: center;
     font-size: 35px;
 }
-
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f8ff;
     margin: 0;
     padding: 0;
 }
-
 header {
     background-color: #88c1e7;
     padding: 20px;
     text-align: center;
 }
-
-
 nav {
     display: flex;
     justify-content: center;
@@ -38,29 +33,18 @@ nav a {
     border-radius: 8px;
     font-weight: bold;
 }
-
 nav a:hover {
     background-color: #174c75;
 }
-
-
 
 h2 {
     color: #2876a8;
 }
 
 
-p {
-    color: #1d1b1b;
-    font-size: 16px;
-}
-
 main {
-    
     padding: 20px;
 }
-
-
 footer {
     background-color: #88c1e7;
     color: white;
@@ -72,14 +56,10 @@ footer {
     padding: 25px;   
     border-radius: 10px;
 }
-
 .introduction h2 {
     color: #2876a8;
     text-align: center;
 }
-
-
-
 .introduction ul {
     background-color: #afd7f1;
     padding: 25px 40px;
@@ -90,14 +70,11 @@ footer {
     margin: auto;
 }
 .paysages {
-   
-    
     padding: 25px;
 }
 .gastronomie {
     background-color: #f0f8ff;
 }
-
 .gastronomie h2 {
     color: #2876a8;
 }
@@ -108,6 +85,10 @@ footer {
 
  img {
     border-radius: 12px;
+}
+
+footer{
+margin:25px;
 }
 
 
