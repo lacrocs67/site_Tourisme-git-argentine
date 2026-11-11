@@ -95,6 +95,26 @@ footer {
    
     margin-left: 30%;
     padding: 25px;
-    margin:auto;
 }
+.gastronomie {
+    background-color: #f0f8ff;
+    
+}
+
+.gastronomie h2 {
+    color: #2876a8;
+}
+
+.gastronomie p {
+    font-size: 18px;
+    
+}
+
+.gastronomie img {
+    
+   
+    border-radius: 12px;
+}
+   
+
 
