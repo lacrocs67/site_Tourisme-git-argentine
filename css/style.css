@@ -86,7 +86,18 @@ footer {
     border-radius: 12px;
 }
 
+.S_img_acces{
+    display: flex;
+    flex-direction: row;
+    gap: 0.5vw;
+    flex-wrap: wrap;
+    margin-bottom: 5vh;
 
+}
+
+.S_img_acces img{
+    width: 31vw;
+}
 
 
 
